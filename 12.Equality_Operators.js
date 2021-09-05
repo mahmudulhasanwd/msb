@@ -1,4 +1,4 @@
-// Equality Operators (==, ===, !==, !===)
+// Equality Operators (==, ===, !=, !==)
 
 let num1 = 50;
 let num2 = 60;
